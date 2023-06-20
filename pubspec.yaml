@@ -13,12 +13,12 @@ dependencies:
   flutter_riverpod: ^2.3.6
   google_fonts: ^4.0.3
   google_maps_flutter: ^2.2.5
-  http: ^1.0.0
+  http: ^0.13.5
   image_picker: ^0.8.8
   location: ^4.4.0
-  path: ^1.8.3
-  path_provider: ^2.0.15
-  sqflite: ^2.2.8+4
+  path: ^1.8.2
+  path_provider: ^2.0.14
+  sqflite: ^2.2.6
   uuid: ^3.0.7
 
 dev_dependencies:
