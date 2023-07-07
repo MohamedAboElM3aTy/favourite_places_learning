@@ -23,11 +23,11 @@
 
 ## ScreenShots 📸 
 
-<img width="200" alt="Mockup" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/89c4abb4-ae3c-4400-b59d-fdd4bc625f5e">
-<img width="200" alt="Mockup" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/d77037e3-232b-4cae-b4a6-6a3dd7d004a4">
-<img width="200" alt="Mockup" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/086fd859-bfb6-4214-8ad0-a212c22c19e7">
-<img width="200" alt="Mockup" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/3f607841-9790-41b5-910b-1ca673c3efb0">
-<img width="200" alt="Mockup" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/cfc37100-83fe-4f2c-9ed4-e029949716af">
+<img width="200" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/89c4abb4-ae3c-4400-b59d-fdd4bc625f5e">
+<img width="200" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/d77037e3-232b-4cae-b4a6-6a3dd7d004a4">
+<img width="200" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/086fd859-bfb6-4214-8ad0-a212c22c19e7">
+<img width="200" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/3f607841-9790-41b5-910b-1ca673c3efb0">
+<img width="200" src="https://github.com/MohamedAboElM3aTy/favourite_places_learning/assets/98196426/cfc37100-83fe-4f2c-9ed4-e029949716af">
 
 
 
